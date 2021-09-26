@@ -16,7 +16,7 @@
                         {% if user.first_name|length != 0 and user.last_name|length != 0%}
                             <h1 class="page-title">{{user.first_name}} {{user.last_name}}</h1>
                             <ul class="breadcrumb">
-                                <li><a href="/home">Home</a></li>
+                                <li><a href="/">Home</a></li>
                                 <li class="current"><span>{{user.first_name}} {{user.last_name}}</span></li>
                             </ul>
                         {% else %}
