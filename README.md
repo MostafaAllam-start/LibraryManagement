@@ -164,7 +164,7 @@ python manage.py test
 
 ## Contributors
 
-- **[Mostafa Allam]** - Developer and Maintainer
+- **Mostafa Allam** - Developer and Maintainer
 
 ---
 
